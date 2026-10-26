@@ -6,7 +6,7 @@
 
 **Godot 4.7** (Jolt Physics, Forward+) ile yapılmış üçüncü şahıs polis devriye simülasyonu. Dispatch çağrılarını al, plaka sorgula, trafik durağı yap, şüphelileri araçla ve yaya kovala, tam bir ELS ışık ve siren paneliyle araç sür. Şehir, araçlar, karakterler, sesler ve iç mekânlar betiklerle üretilen özgün low-poly varlıklardır.
 
-Bu özel, kişisel kullanım amaçlı bir projedir. Tüm varlıklar özgündür.
+Tüm varlıklar özgündür. Videoları izlemek ve oyunu indirmek için [proje sitesine](https://talkdedsec.github.io/tlk-patrol/) bak.
 
 ## Özellikler
 

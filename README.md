@@ -6,7 +6,7 @@
 
 A third-person police patrol simulator built in **Godot 4.7** (Jolt Physics, Forward+). Take calls from dispatch, run plates and traffic stops, chase suspects by car and on foot, and drive with a full ELS light and siren panel. The city, vehicles, characters, sounds and interiors are original low-poly assets generated from scripts.
 
-This is a private personal-use project. All assets are original.
+All assets are original. Watch the footage and download the game on the [project site](https://talkdedsec.github.io/tlk-patrol/).
 
 ## Features
 

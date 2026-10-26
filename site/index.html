@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blue Line Patrol · Police patrol simulator</title>
+  <meta name="description" content="Blue Line Patrol is a third-person police patrol simulator built in Godot 4: dispatch calls, traffic stops, PIT pursuits, a full ELS panel and a procedural city.">
+  <meta name="theme-color" content="#0b0d12">
+  <meta property="og:title" content="Blue Line Patrol">
+  <meta property="og:description" content="Third-person police patrol simulator built in Godot 4.">
+  <meta property="og:image" content="https://talkdedsec.github.io/tlk-patrol/media/og.png">
+  <meta property="og:url" content="https://talkdedsec.github.io/tlk-patrol/">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230b0d12'/%3E%3Crect x='4' y='12' width='11' height='8' rx='2' fill='%23ff2e3f'/%3E%3Crect x='17' y='12' width='11' height='8' rx='2' fill='%232e6bff'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;900&family=Inter+Tight:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="loader" aria-hidden="true">
+    <div class="loader__bar"><span></span><span></span></div>
+    <p class="loader__line mono">1-ADAM-12 · 10-8 · IN SERVICE</p>
+  </div>
+
+  <header class="nav">
+    <a class="nav__brand mono" href="#top">BLP<span>/</span>01</a>
+    <nav class="nav__links" aria-label="Sections">
+      <a href="#shift">Shift</a>
+      <a href="#footage">Footage</a>
+      <a href="#els">ELS</a>
+      <a href="#controls">Controls</a>
+    </nav>
+    <a class="nav__cta" href="#download">Download</a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <video class="hero__video" src="media/loop.mp4" poster="media/pursuit.webp" autoplay muted loop playsinline aria-hidden="true"></video>
+      <div class="hero__shade"></div>
+      <div class="hero__strobe" aria-hidden="true"><i></i><i></i></div>
+
+      <div class="hero__meta mono" aria-hidden="true">
+        <span>UNIT 1-ADAM-12</span>
+        <span class="js-clock">13:51</span>
+        <span>CODE 3</span>
+      </div>
+
+      <h1 class="hero__title">
+        <span class="line"><span>Blue Line</span></span>
+        <span class="line"><span>Patrol<em>.</em></span></span>
+      </h1>
+
+      <div class="hero__foot">
+        <p class="hero__lede">A third-person police patrol simulator. Take the call, run the plate, light it up and end the pursuit by the book.</p>
+        <div class="hero__actions">
+          <a class="btn btn--primary" href="#download">Download v1.0.0</a>
+          <a class="btn btn--ghost" href="#footage"><span class="dot"></span>Watch footage</a>
+        </div>
+      </div>
+    </section>
+
+    <div class="ticker mono" aria-hidden="true">
+      <div class="ticker__track">
+        <span>10-8 IN SERVICE</span><span class="r">CODE 3 RESPONSE</span><span>PIT AUTHORIZED</span><span class="b">10-80 PURSUIT</span><span>RUN PLATE XOY-1696</span><span class="r">ALL UNITS RESPONDING</span><span>10-97 ON SCENE</span><span class="b">SUSPECT IN CUSTODY</span>
+        <span>10-8 IN SERVICE</span><span class="r">CODE 3 RESPONSE</span><span>PIT AUTHORIZED</span><span class="b">10-80 PURSUIT</span><span>RUN PLATE XOY-1696</span><span class="r">ALL UNITS RESPONDING</span><span>10-97 ON SCENE</span><span class="b">SUSPECT IN CUSTODY</span>
+      </div>
+    </div>
+
+    <section class="intro wrap">
+      <p class="eyebrow mono">00 · Briefing</p>
+      <p class="intro__text reveal">Built in <strong>Godot&nbsp;4.7</strong> with Jolt physics. Every model, sound, siren and interior is original, generated from scripts. No ripped assets, no stock packs.</p>
+    </section>
+
+    <section class="shift wrap" id="shift">
+      <div class="shift__head">
+        <p class="eyebrow mono">01 · Shift log</p>
+        <h2 class="h2 reveal">One shift,<br>start to finish.</h2>
+      </div>
+
+      <div class="shift__grid">
+        <figure class="shift__media" aria-hidden="true">
+          <img class="is-on" data-key="hero" src="media/still-hero.webp" alt="" width="1600" height="900" loading="lazy">
+          <img data-key="hud" src="media/still-hud.webp" alt="" width="1600" height="900" loading="lazy">
+          <img data-key="night" src="media/still-night.webp" alt="" width="1600" height="900" loading="lazy">
+          <img data-key="pursuit" src="media/pursuit.webp" alt="" width="1280" height="720" loading="lazy">
+          <img data-key="stop" src="media/stop.webp" alt="" width="1280" height="720" loading="lazy">
+          <img data-key="weapons" src="media/weapons_a.webp" alt="" width="1280" height="720" loading="lazy">
+          <figcaption class="mono"><span class="js-shift-time">06:00</span> · Davidson City</figcaption>
+        </figure>
+
+        <ol class="shift__log">
+          <li data-key="hero" data-time="06:00">
+            <h3>Roll call</h3>
+            <p>A procedural city with a road graph, traffic lights, day and night, weather and a full lighting pass. Walk out to the car and start your shift.</p>
+          </li>
+          <li data-key="night" data-time="09:12">
+            <h3>On patrol</h3>
+            <p>Ten-plus original vehicles with real driving physics, opening doors, damage smoke and a follow camera. 12 to 92 mph in 7.9 seconds.</p>
+          </li>
+          <li data-key="hud" data-time="11:40">
+            <h3>Run it</h3>
+            <p>RADAR with lock, ALPR plate reader, minimap, gauges and an MDT terminal. Dispatch talks to you over a synthesized radio voice.</p>
+          </li>
+          <li data-key="stop" data-time="13:45">
+            <h3>Traffic stop</h3>
+            <p>Twenty-one dialogue options, citations and arrests. Every stop can go quiet or go sideways.</p>
+          </li>
+          <li data-key="pursuit" data-time="13:51">
+            <h3>Pursuit</h3>
+            <p>Request PIT, wait for authorization, call backup, or call it off. Foot chases end with a Taser and cuffs.</p>
+          </li>
+          <li data-key="weapons" data-time="14:08">
+            <h3>Officer needs assistance</h3>
+            <p>Pistol, patrol rifle and shotgun with recoil, aiming and effects. Three weapons, one holster key.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="footage" id="footage">
+      <div class="wrap footage__head">
+        <p class="eyebrow mono">02 · Footage</p>
+        <h2 class="h2 reveal">Bodycam,<br>dashcam.</h2>
+        <p class="footage__note">Recorded in engine. Streams straight from the release, nothing to download.</p>
+      </div>
+
+      <div class="wrap footage__grid">
+        <div class="player">
+          <video class="player__video js-player" controls playsinline preload="none" poster="media/pursuit.webp"></video>
+          <button class="player__start js-start" type="button" aria-label="Play video">
+            <span class="player__ring"></span>
+          </button>
+          <div class="player__info">
+            <p class="mono player__tag js-tag">REC 01</p>
+            <h3 class="player__title js-title">Pursuit and PIT</h3>
+          </div>
+        </div>
+
+        <ul class="reel" role="list">
+          <li><button class="reel__item is-active" type="button" data-src="_demo_pursuit.mp4" data-poster="pursuit.webp" data-title="Pursuit and PIT">
+            <img src="media/pursuit.webp" alt="" width="1280" height="720" loading="lazy"><span class="mono">01 · 1:36</span><strong>Pursuit and PIT</strong></button></li>
+          <li><button class="reel__item" type="button" data-src="_demo_stop.mp4" data-poster="stop.webp" data-title="Traffic stop">
+            <img src="media/stop.webp" alt="" width="1280" height="720" loading="lazy"><span class="mono">02 · 1:45</span><strong>Traffic stop</strong></button></li>
+          <li><button class="reel__item" type="button" data-src="els_yeni.mp4" data-poster="els.webp" data-title="ELS lights and sirens">
+            <img src="media/els.webp" alt="" width="1280" height="720" loading="lazy"><span class="mono">03 · 0:36</span><strong>ELS lights and sirens</strong></button></li>
+          <li><button class="reel__item" type="button" data-src="_demo_drive.mp4" data-poster="drive.webp" data-title="Code 3 drive">
+            <img src="media/drive.webp" alt="" width="1280" height="720" loading="lazy"><span class="mono">04 · 0:29</span><strong>Code 3 drive</strong></button></li>
+          <li><button class="reel__item" type="button" data-src="weapons_a.mp4" data-poster="weapons_a.webp" data-title="Officer needs assistance">
+            <img src="media/weapons_a.webp" alt="" width="1280" height="720" loading="lazy"><span class="mono">05 · 0:12</span><strong>Officer needs assistance</strong></button></li>
+          <li><button class="reel__item" type="button" data-src="weapons_b.mp4" data-poster="weapons_b.webp" data-title="Foot chase">
+            <img src="media/weapons_b.webp" alt="" width="1280" height="720" loading="lazy"><span class="mono">06 · 0:13</span><strong>Foot chase</strong></button></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="els wrap" id="els">
+      <p class="eyebrow mono">03 · By the numbers</p>
+      <div class="els__grid">
+        <div class="stat stat--wide reveal">
+          <span class="stat__num" data-count="57">57</span>
+          <span class="stat__label">ELS light patterns on a clickable panel, with synthesized sirens built from measured frequencies.</span>
+        </div>
+        <div class="stat reveal">
+          <span class="stat__num" data-count="111.8" data-dec="1">111.8</span>
+          <span class="stat__label">mph top speed</span>
+        </div>
+        <div class="stat reveal">
+          <span class="stat__num" data-count="21">21</span>
+          <span class="stat__label">traffic stop dialogue options</span>
+        </div>
+        <div class="stat reveal">
+          <span class="stat__num" data-count="12">12</span>
+          <span class="stat__label">scripted demo scenarios</span>
+        </div>
+        <div class="stat stat--accent reveal">
+          <span class="stat__num" data-count="163">163</span>
+          <span class="stat__label">of 163 end-to-end checks passing</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="controls wrap" id="controls">
+      <div class="controls__head">
+        <p class="eyebrow mono">04 · Controls</p>
+        <h2 class="h2 reveal">Know your<br>switches.</h2>
+      </div>
+      <dl class="keys">
+        <div><dt><kbd>Q</kbd></dt><dd>Emergency lights</dd></div>
+        <div><dt><kbd>X</kbd></dt><dd>Siren</dd></div>
+        <div><dt><kbd>H</kbd></dt><dd>Air horn</dd></div>
+        <div><dt><kbd>L</kbd></dt><dd>Headlights</dd></div>
+        <div><dt><kbd>V</kbd><kbd>G</kbd></dt><dd>Radar, lock</dd></div>
+        <div><dt><kbd>P</kbd></dt><dd>Plate reader</dd></div>
+        <div><dt><kbd>Tab</kbd></dt><dd>MDT</dd></div>
+        <div><dt><kbd>E</kbd></dt><dd>Enter, cuff, talk</dd></div>
+        <div><dt><kbd>5</kbd></dt><dd>Draw, holster</dd></div>
+        <div><dt><kbd>1</kbd><kbd>2</kbd><kbd>3</kbd></dt><dd>Pistol, rifle, shotgun</dd></div>
+        <div><dt><kbd>Y</kbd><kbd>N</kbd></dt><dd>Accept, pass call</dd></div>
+        <div class="keys__hot"><dt><kbd>R</kbd></dt><dd>Request PIT</dd></div>
+      </dl>
+    </section>
+
+    <section class="download" id="download">
+      <div class="download__strobe" aria-hidden="true"></div>
+      <div class="wrap download__inner">
+        <p class="eyebrow mono">05 · Go in service</p>
+        <h2 class="download__title">Clock in.</h2>
+        <div class="download__row">
+          <a class="btn btn--primary btn--xl" href="https://github.com/Talkdedsec/tlk-patrol/releases/download/v1.0.0/BlueLinePatrol.exe">Download for Windows</a>
+          <ul class="download__meta mono" role="list">
+            <li>v1.0.0</li><li>Windows x64</li><li>121 MB</li><li>No installer</li>
+          </ul>
+        </div>
+        <p class="download__alt">Prefer the source? <a href="https://github.com/Talkdedsec/tlk-patrol">Open it in Godot 4.7.2</a>. Source-available, personal use only, see the <a href="https://github.com/Talkdedsec/tlk-patrol/blob/main/LICENSE">license</a>.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot wrap">
+    <p class="foot__big">BLP</p>
+    <div class="foot__cols">
+      <p>Made by <a href="https://talkdedsec.com">Talkdedsec</a></p>
+      <p><a href="https://github.com/Talkdedsec/tlk-patrol">GitHub</a> · <a href="https://github.com/Talkdedsec/tlk-patrol/releases">Releases</a> · <a href="https://github.com/Talkdedsec/tlk-patrol/blob/main/SECURITY.md">Security</a></p>
+      <p class="mono">10-42 · END OF SHIFT</p>
+    </div>
+  </footer>
+
+  <script src="main.js" defer></script>
+</body>
+</html>
