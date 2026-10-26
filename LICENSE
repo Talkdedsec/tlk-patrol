@@ -1,5 +1,47 @@
+Blue Line Patrol (tlk-patrol) Source-Available License
+
 Copyright (c) 2026 Talkdedsec. All rights reserved.
 
-This repository is private and provided for personal use only. No permission is
-granted to copy, modify, distribute, sublicense or sell any part of it without
-written permission from the copyright holder.
+The source code, scenes, scripts, generated assets, audio, images and builds
+in this repository (the "Software") are published so that anyone can read,
+study and play them. Publishing the source does not make it open source.
+
+1. Permitted
+   a. Viewing and studying the source code.
+   b. Downloading, building and running the Software for personal,
+      non-commercial use.
+   c. Making changes on your own machine for personal, non-commercial use.
+   d. Forking this repository on GitHub, only to propose changes back
+      through a pull request.
+   e. Recording and streaming gameplay, including monetized videos and
+      streams, as long as this repository is credited.
+
+2. Not permitted without prior written permission from the copyright holder
+   a. Redistributing the Software or any modified version, in source or
+      binary form, including re-uploads to stores, mod sites or file hosts.
+   b. Commercial use of any kind: selling, bundling, paid access, or
+      offering the Software as part of a paid product or service.
+   c. Reusing the code, assets, audio or images in other projects.
+   d. Removing or changing copyright, license or author notices.
+   e. Using the Software or its assets to train machine-learning models.
+
+3. Contributions
+   By submitting a pull request, issue attachment or other contribution, you
+   agree that it may be used, changed and distributed by the copyright holder
+   under this license or any other license, without compensation.
+
+4. Termination
+   Any use that breaks these terms ends the permissions in section 1
+   automatically.
+
+5. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+   OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+Third-party components (such as the Godot Engine) keep their own licenses.
+
+For permission requests: talkdedsec@proton.me

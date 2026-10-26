@@ -67,7 +67,7 @@ Playable, in active development. Some mechanics (reload timing, damage model, PI
 
 ## License
 
-All rights reserved, personal use only. See [LICENSE](LICENSE).
+Source-available: free to read, build and play for personal use; no redistribution or commercial use. See [LICENSE](LICENSE).
 
 ---
 

@@ -67,7 +67,7 @@ Oynanabilir, geliştirme sürüyor. Bazı mekanikler (doldurma süresi, hasar mo
 
 ## Lisans
 
-Tüm hakları saklıdır, yalnızca kişisel kullanım. [LICENSE](LICENSE) dosyasına bak.
+Kaynak kodu açık (source-available): kişisel kullanım için okunabilir, derlenebilir ve oynanabilir; yeniden dağıtım ve ticari kullanım yasak. [LICENSE](LICENSE) dosyasına bak.
 
 ---
 
