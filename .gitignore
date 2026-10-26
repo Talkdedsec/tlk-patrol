@@ -20,3 +20,6 @@ kayit/
 # python cache
 __pycache__/
 *.pyc
+
+# local handoff notes
+DEVAM.md

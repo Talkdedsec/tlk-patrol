@@ -1,6 +1,6 @@
 # World API (`scripts/world/**`)
 
-Dünya, ışıklandırma, yol grafiği, trafik ışıkları. Sahibi: `world`. Analiz: .
+Dünya, ışıklandırma, yol grafiği, trafik ışıkları. Sahibi: `world`.
 Autoload: `World` (`scripts/world/world.gd`). Test sahnesi: `scenes/world/test_world.tscn`.
 
 ## Kullanım
