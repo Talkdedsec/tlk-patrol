@@ -1,0 +1,22 @@
+# Godot
+.godot/
+*.translation
+export_presets.cfg
+export/
+build/
+
+# local material (never committed)
+/tools/
+
+# os / editor
+*.tmp
+Thumbs.db
+desktop.ini
+.godot-kilit/
+kayit/
+/oyna/
+/notlar/
+
+# python cache
+__pycache__/
+*.pyc

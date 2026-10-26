@@ -1,0 +1,1873 @@
+{
+	"lines": [
+		{
+			"key": "show me ten six",
+			"spoken": "show me ten six.",
+			"text": "show me 10-6."
+		},
+		{
+			"key": "show me ten eight",
+			"spoken": "show me ten eight.",
+			"text": "show me 10-8."
+		},
+		{
+			"key": "show me ten seventy six",
+			"spoken": "show me ten seventy six.",
+			"text": "show me 10-76."
+		},
+		{
+			"key": "ten four one adam twelve",
+			"spoken": "ten four, one Adam twelve.",
+			"text": "10-4, 1-Adam-12."
+		},
+		{
+			"key": "ten four one adam twelve responding code three",
+			"spoken": "ten four, one Adam twelve responding Code three.",
+			"text": "10-4, 1-Adam-12 responding Code 3."
+		},
+		{
+			"key": "unable i'm tied up",
+			"spoken": "unable, I'm tied up.",
+			"text": "unable, I'm tied up."
+		},
+		{
+			"key": "ten four responding",
+			"spoken": "ten four, responding.",
+			"text": "10-4, responding."
+		},
+		{
+			"key": "ten four ten seventy six",
+			"spoken": "ten four, ten seventy six.",
+			"text": "10-4, 10-76."
+		},
+		{
+			"key": "ten ninety seven",
+			"spoken": "ten ninety seven.",
+			"text": "10-97."
+		},
+		{
+			"key": "clearing",
+			"spoken": "clearing.",
+			"text": "clearing."
+		},
+		{
+			"key": "ten fifteen",
+			"spoken": "ten fifteen.",
+			"text": "10-15."
+		},
+		{
+			"key": "en route",
+			"spoken": "en route.",
+			"text": "en route."
+		},
+		{
+			"key": "terminate the pursuit",
+			"spoken": "terminate the pursuit.",
+			"text": "terminate the pursuit."
+		},
+		{
+			"key": "ten four all units pursuit terminated",
+			"spoken": "ten four, all units, pursuit terminated.",
+			"text": "10-4, all units, pursuit terminated."
+		},
+		{
+			"key": "joining in",
+			"spoken": "Joining in.",
+			"text": "Joining in."
+		},
+		{
+			"key": "i've got the lead",
+			"spoken": "I've got the lead.",
+			"text": "I've got the lead."
+		},
+		{
+			"key": "requesting permission to pit",
+			"spoken": "Requesting permission to pit.",
+			"text": "Requesting permission to PIT."
+		},
+		{
+			"key": "my prisoner's booked show me ten eight",
+			"spoken": "my prisoner's booked, show me ten eight.",
+			"text": "my prisoner's booked, show me 10-8."
+		},
+		{
+			"key": "one in custody transporting to booking",
+			"spoken": "one in custody, transporting to booking.",
+			"text": "one in custody, transporting to booking."
+		},
+		{
+			"key": "received one adam twelve traffic stop near the southside",
+			"spoken": "received, one Adam twelve, traffic stop near the Southside.",
+			"text": "received, 1-Adam-12, traffic stop near the Southside."
+		},
+		{
+			"key": "traffic stop plate king edward adam nine two nine one",
+			"spoken": "traffic stop, plate King, Edward, Adam, nine two nine one.",
+			"text": "traffic stop, plate KEA-9291."
+		},
+		{
+			"key": "run a ten twenty eight for me king edward adam nine two nine one",
+			"spoken": "run a ten twenty eight for me, King, Edward, Adam, nine two nine one.",
+			"text": "run a 10-28 for me, KEA-9291."
+		},
+		{
+			"key": "one adam twelve that plate comes back to a halvorsen ranger s u v registered to darnell foster no wants or warrants",
+			"spoken": "one Adam twelve, that plate comes back to a Halvorsen Ranger S U V, registered to Darnell Foster. No wants or warrants.",
+			"text": "1-Adam-12, that plate comes back to a Halvorsen Ranger SUV, registered to Darnell Foster. No wants or warrants."
+		},
+		{
+			"key": "ten eighty vehicle failing to yield",
+			"spoken": "ten eighty, vehicle failing to yield.",
+			"text": "10-80, vehicle failing to yield."
+		},
+		{
+			"key": "understood one adam twelve ten eighty all units be advised",
+			"spoken": "Understood, one Adam twelve ten eighty. All units, be advised.",
+			"text": "Understood, 1-Adam-12 10-80. All units, be advised."
+		},
+		{
+			"key": "thank you officer",
+			"spoken": "Thank you, officer.",
+			"text": "Thank you, officer."
+		},
+		{
+			"key": "driver pull forward a little more and stop",
+			"spoken": "Driver, pull forward a little more and stop.",
+			"text": "Driver, pull forward a little more and stop."
+		},
+		{
+			"key": "driver pull into the next street on your right and stop",
+			"spoken": "Driver, pull into the next street on your right and stop.",
+			"text": "Driver, pull into the next street on your right and stop."
+		},
+		{
+			"key": "driver follow me",
+			"spoken": "Driver, follow me.",
+			"text": "Driver, follow me."
+		},
+		{
+			"key": "driver stop right there",
+			"spoken": "Driver, stop right there.",
+			"text": "Driver, stop right there."
+		},
+		{
+			"key": "do you know why i stopped you",
+			"spoken": "Do you know why I stopped you?",
+			"text": "Do you know why I stopped you?"
+		},
+		{
+			"key": "where are you headed",
+			"spoken": "Where are you headed?",
+			"text": "Where are you headed?"
+		},
+		{
+			"key": "have you had anything to drink tonight",
+			"spoken": "Have you had anything to drink tonight?",
+			"text": "Have you had anything to drink tonight?"
+		},
+		{
+			"key": "whose car is this",
+			"spoken": "Whose car is this?",
+			"text": "Whose car is this?"
+		},
+		{
+			"key": "is there anything illegal in the vehicle",
+			"spoken": "Is there anything illegal in the vehicle?",
+			"text": "Is there anything illegal in the vehicle?"
+		},
+		{
+			"key": "any weapons in the car or on you",
+			"spoken": "Any weapons in the car or on you?",
+			"text": "Any weapons in the car or on you?"
+		},
+		{
+			"key": "mind if i search the vehicle",
+			"spoken": "Mind if I search the vehicle?",
+			"text": "Mind if I search the vehicle?"
+		},
+		{
+			"key": "licence registration and insurance please",
+			"spoken": "Licence, registration and insurance, please.",
+			"text": "Licence, registration and insurance, please."
+		},
+		{
+			"key": "step out of the vehicle for me please",
+			"spoken": "Step out of the vehicle for me, please.",
+			"text": "Step out of the vehicle for me, please."
+		},
+		{
+			"key": "i'm going to have you do a few tests for me",
+			"spoken": "I'm going to have you do a few tests for me.",
+			"text": "I'm going to have you do a few tests for me."
+		},
+		{
+			"key": "still northbound at thirty",
+			"spoken": "Still northbound, at thirty.",
+			"text": "Still northbound, at thirty."
+		},
+		{
+			"key": "heading eastbound moderate speeds",
+			"spoken": "Heading eastbound, moderate speeds.",
+			"text": "Heading eastbound, moderate speeds."
+		},
+		{
+			"key": "now westbound very fast speeds",
+			"spoken": "Now westbound, very fast speeds.",
+			"text": "Now westbound, very fast speeds."
+		},
+		{
+			"key": "turning southbound slow speeds",
+			"spoken": "Turning southbound, slow speeds.",
+			"text": "Turning southbound, slow speeds."
+		},
+		{
+			"key": "still northbound speeds over a hundred",
+			"spoken": "Still northbound, speeds over a hundred.",
+			"text": "Still northbound, speeds over a hundred."
+		},
+		{
+			"key": "still northbound at twenty",
+			"spoken": "Still northbound, at twenty.",
+			"text": "Still northbound, at twenty."
+		},
+		{
+			"key": "code two trespassing a caller says a person is on private property near the southside and will not leave",
+			"spoken": "Code two, Trespassing. A caller says a person is on private property near the Southside and will not leave.",
+			"text": "Code 2, Trespassing. A caller says a person is on private property near the Southside and will not leave."
+		},
+		{
+			"key": "code two trespassing a caller says a person is on private property near oak hills and will not leave",
+			"spoken": "Code two, Trespassing. A caller says a person is on private property near Oak Hills and will not leave.",
+			"text": "Code 2, Trespassing. A caller says a person is on private property near Oak Hills and will not leave."
+		},
+		{
+			"key": "code two trespassing a caller says a person is on private property near eastgate and will not leave",
+			"spoken": "Code two, Trespassing. A caller says a person is on private property near Eastgate and will not leave.",
+			"text": "Code 2, Trespassing. A caller says a person is on private property near Eastgate and will not leave."
+		},
+		{
+			"key": "code two trespassing a caller says a person is on private property near davidson blvd and will not leave",
+			"spoken": "Code two, Trespassing. A caller says a person is on private property near Davidson Blvd and will not leave.",
+			"text": "Code 2, Trespassing. A caller says a person is on private property near Davidson Blvd and will not leave."
+		},
+		{
+			"key": "code two trespassing the owner of a lot near the southside wants someone removed from the yard",
+			"spoken": "Code two, Trespassing. The owner of a lot near the Southside wants someone removed from the yard.",
+			"text": "Code 2, Trespassing. The owner of a lot near the Southside wants someone removed from the yard."
+		},
+		{
+			"key": "code two trespassing the owner of a lot near oak hills wants someone removed from the yard",
+			"spoken": "Code two, Trespassing. The owner of a lot near Oak Hills wants someone removed from the yard.",
+			"text": "Code 2, Trespassing. The owner of a lot near Oak Hills wants someone removed from the yard."
+		},
+		{
+			"key": "code two trespassing the owner of a lot near eastgate wants someone removed from the yard",
+			"spoken": "Code two, Trespassing. The owner of a lot near Eastgate wants someone removed from the yard.",
+			"text": "Code 2, Trespassing. The owner of a lot near Eastgate wants someone removed from the yard."
+		},
+		{
+			"key": "code two trespassing the owner of a lot near davidson blvd wants someone removed from the yard",
+			"spoken": "Code two, Trespassing. The owner of a lot near Davidson Blvd wants someone removed from the yard.",
+			"text": "Code 2, Trespassing. The owner of a lot near Davidson Blvd wants someone removed from the yard."
+		},
+		{
+			"key": "ten twenty two another unit will handle the trespassing",
+			"spoken": "ten twenty two, another unit will handle the trespassing.",
+			"text": "10-22, another unit will handle the trespassing."
+		},
+		{
+			"key": "code two suspicious person a caller saw someone trying car doors near the southside",
+			"spoken": "Code two, Suspicious person. A caller saw someone trying car doors near the Southside.",
+			"text": "Code 2, Suspicious person. A caller saw someone trying car doors near the Southside."
+		},
+		{
+			"key": "code two suspicious person a caller saw someone trying car doors near oak hills",
+			"spoken": "Code two, Suspicious person. A caller saw someone trying car doors near Oak Hills.",
+			"text": "Code 2, Suspicious person. A caller saw someone trying car doors near Oak Hills."
+		},
+		{
+			"key": "code two suspicious person a caller saw someone trying car doors near eastgate",
+			"spoken": "Code two, Suspicious person. A caller saw someone trying car doors near Eastgate.",
+			"text": "Code 2, Suspicious person. A caller saw someone trying car doors near Eastgate."
+		},
+		{
+			"key": "code two suspicious person a caller saw someone trying car doors near davidson blvd",
+			"spoken": "Code two, Suspicious person. A caller saw someone trying car doors near Davidson Blvd.",
+			"text": "Code 2, Suspicious person. A caller saw someone trying car doors near Davidson Blvd."
+		},
+		{
+			"key": "code two suspicious person a resident near the southside reports a stranger looking into parked cars",
+			"spoken": "Code two, Suspicious person. A resident near the Southside reports a stranger looking into parked cars.",
+			"text": "Code 2, Suspicious person. A resident near the Southside reports a stranger looking into parked cars."
+		},
+		{
+			"key": "code two suspicious person a resident near oak hills reports a stranger looking into parked cars",
+			"spoken": "Code two, Suspicious person. A resident near Oak Hills reports a stranger looking into parked cars.",
+			"text": "Code 2, Suspicious person. A resident near Oak Hills reports a stranger looking into parked cars."
+		},
+		{
+			"key": "code two suspicious person a resident near eastgate reports a stranger looking into parked cars",
+			"spoken": "Code two, Suspicious person. A resident near Eastgate reports a stranger looking into parked cars.",
+			"text": "Code 2, Suspicious person. A resident near Eastgate reports a stranger looking into parked cars."
+		},
+		{
+			"key": "code two suspicious person a resident near davidson blvd reports a stranger looking into parked cars",
+			"spoken": "Code two, Suspicious person. A resident near Davidson Blvd reports a stranger looking into parked cars.",
+			"text": "Code 2, Suspicious person. A resident near Davidson Blvd reports a stranger looking into parked cars."
+		},
+		{
+			"key": "ten twenty two another unit will handle the suspicious person",
+			"spoken": "ten twenty two, another unit will handle the suspicious person.",
+			"text": "10-22, another unit will handle the suspicious person."
+		},
+		{
+			"key": "code two noise complaint neighbours near the southside report loud music and shouting",
+			"spoken": "Code two, Noise complaint. Neighbours near the Southside report loud music and shouting.",
+			"text": "Code 2, Noise complaint. Neighbours near the Southside report loud music and shouting."
+		},
+		{
+			"key": "code two noise complaint neighbours near oak hills report loud music and shouting",
+			"spoken": "Code two, Noise complaint. Neighbours near Oak Hills report loud music and shouting.",
+			"text": "Code 2, Noise complaint. Neighbours near Oak Hills report loud music and shouting."
+		},
+		{
+			"key": "code two noise complaint neighbours near eastgate report loud music and shouting",
+			"spoken": "Code two, Noise complaint. Neighbours near Eastgate report loud music and shouting.",
+			"text": "Code 2, Noise complaint. Neighbours near Eastgate report loud music and shouting."
+		},
+		{
+			"key": "code two noise complaint neighbours near davidson blvd report loud music and shouting",
+			"spoken": "Code two, Noise complaint. Neighbours near Davidson Blvd report loud music and shouting.",
+			"text": "Code 2, Noise complaint. Neighbours near Davidson Blvd report loud music and shouting."
+		},
+		{
+			"key": "code two noise complaint a caller near the southside says a party is keeping the whole street awake",
+			"spoken": "Code two, Noise complaint. A caller near the Southside says a party is keeping the whole street awake.",
+			"text": "Code 2, Noise complaint. A caller near the Southside says a party is keeping the whole street awake."
+		},
+		{
+			"key": "code two noise complaint a caller near oak hills says a party is keeping the whole street awake",
+			"spoken": "Code two, Noise complaint. A caller near Oak Hills says a party is keeping the whole street awake.",
+			"text": "Code 2, Noise complaint. A caller near Oak Hills says a party is keeping the whole street awake."
+		},
+		{
+			"key": "code two noise complaint a caller near eastgate says a party is keeping the whole street awake",
+			"spoken": "Code two, Noise complaint. A caller near Eastgate says a party is keeping the whole street awake.",
+			"text": "Code 2, Noise complaint. A caller near Eastgate says a party is keeping the whole street awake."
+		},
+		{
+			"key": "code two noise complaint a caller near davidson blvd says a party is keeping the whole street awake",
+			"spoken": "Code two, Noise complaint. A caller near Davidson Blvd says a party is keeping the whole street awake.",
+			"text": "Code 2, Noise complaint. A caller near Davidson Blvd says a party is keeping the whole street awake."
+		},
+		{
+			"key": "ten twenty two another unit will handle the noise complaint",
+			"spoken": "ten twenty two, another unit will handle the noise complaint.",
+			"text": "10-22, another unit will handle the noise complaint."
+		},
+		{
+			"key": "code two shoplifting store staff near the southside are holding a suspected shoplifter",
+			"spoken": "Code two, Shoplifting. Store staff near the Southside are holding a suspected shoplifter.",
+			"text": "Code 2, Shoplifting. Store staff near the Southside are holding a suspected shoplifter."
+		},
+		{
+			"key": "code two shoplifting store staff near oak hills are holding a suspected shoplifter",
+			"spoken": "Code two, Shoplifting. Store staff near Oak Hills are holding a suspected shoplifter.",
+			"text": "Code 2, Shoplifting. Store staff near Oak Hills are holding a suspected shoplifter."
+		},
+		{
+			"key": "code two shoplifting store staff near eastgate are holding a suspected shoplifter",
+			"spoken": "Code two, Shoplifting. Store staff near Eastgate are holding a suspected shoplifter.",
+			"text": "Code 2, Shoplifting. Store staff near Eastgate are holding a suspected shoplifter."
+		},
+		{
+			"key": "code two shoplifting store staff near davidson blvd are holding a suspected shoplifter",
+			"spoken": "Code two, Shoplifting. Store staff near Davidson Blvd are holding a suspected shoplifter.",
+			"text": "Code 2, Shoplifting. Store staff near Davidson Blvd are holding a suspected shoplifter."
+		},
+		{
+			"key": "code two shoplifting a clerk near the southside says a customer left without paying",
+			"spoken": "Code two, Shoplifting. A clerk near the Southside says a customer left without paying.",
+			"text": "Code 2, Shoplifting. A clerk near the Southside says a customer left without paying."
+		},
+		{
+			"key": "code two shoplifting a clerk near oak hills says a customer left without paying",
+			"spoken": "Code two, Shoplifting. A clerk near Oak Hills says a customer left without paying.",
+			"text": "Code 2, Shoplifting. A clerk near Oak Hills says a customer left without paying."
+		},
+		{
+			"key": "code two shoplifting a clerk near eastgate says a customer left without paying",
+			"spoken": "Code two, Shoplifting. A clerk near Eastgate says a customer left without paying.",
+			"text": "Code 2, Shoplifting. A clerk near Eastgate says a customer left without paying."
+		},
+		{
+			"key": "code two shoplifting a clerk near davidson blvd says a customer left without paying",
+			"spoken": "Code two, Shoplifting. A clerk near Davidson Blvd says a customer left without paying.",
+			"text": "Code 2, Shoplifting. A clerk near Davidson Blvd says a customer left without paying."
+		},
+		{
+			"key": "ten twenty two another unit will handle the shoplifting",
+			"spoken": "ten twenty two, another unit will handle the shoplifting.",
+			"text": "10-22, another unit will handle the shoplifting."
+		},
+		{
+			"key": "code two traffic collision two cars collided near the southside no injuries reported",
+			"spoken": "Code two, Traffic collision. Two cars collided near the Southside, no injuries reported.",
+			"text": "Code 2, Traffic collision. Two cars collided near the Southside, no injuries reported."
+		},
+		{
+			"key": "code two traffic collision two cars collided near oak hills no injuries reported",
+			"spoken": "Code two, Traffic collision. Two cars collided near Oak Hills, no injuries reported.",
+			"text": "Code 2, Traffic collision. Two cars collided near Oak Hills, no injuries reported."
+		},
+		{
+			"key": "code two traffic collision two cars collided near eastgate no injuries reported",
+			"spoken": "Code two, Traffic collision. Two cars collided near Eastgate, no injuries reported.",
+			"text": "Code 2, Traffic collision. Two cars collided near Eastgate, no injuries reported."
+		},
+		{
+			"key": "code two traffic collision two cars collided near davidson blvd no injuries reported",
+			"spoken": "Code two, Traffic collision. Two cars collided near Davidson Blvd, no injuries reported.",
+			"text": "Code 2, Traffic collision. Two cars collided near Davidson Blvd, no injuries reported."
+		},
+		{
+			"key": "code two traffic collision a caller reports a fender bender blocking a lane near the southside",
+			"spoken": "Code two, Traffic collision. A caller reports a fender bender blocking a lane near the Southside.",
+			"text": "Code 2, Traffic collision. A caller reports a fender bender blocking a lane near the Southside."
+		},
+		{
+			"key": "code two traffic collision a caller reports a fender bender blocking a lane near oak hills",
+			"spoken": "Code two, Traffic collision. A caller reports a fender bender blocking a lane near Oak Hills.",
+			"text": "Code 2, Traffic collision. A caller reports a fender bender blocking a lane near Oak Hills."
+		},
+		{
+			"key": "code two traffic collision a caller reports a fender bender blocking a lane near eastgate",
+			"spoken": "Code two, Traffic collision. A caller reports a fender bender blocking a lane near Eastgate.",
+			"text": "Code 2, Traffic collision. A caller reports a fender bender blocking a lane near Eastgate."
+		},
+		{
+			"key": "code two traffic collision a caller reports a fender bender blocking a lane near davidson blvd",
+			"spoken": "Code two, Traffic collision. A caller reports a fender bender blocking a lane near Davidson Blvd.",
+			"text": "Code 2, Traffic collision. A caller reports a fender bender blocking a lane near Davidson Blvd."
+		},
+		{
+			"key": "ten twenty two another unit will handle the traffic collision",
+			"spoken": "ten twenty two, another unit will handle the traffic collision.",
+			"text": "10-22, another unit will handle the traffic collision."
+		},
+		{
+			"key": "code two disturbance a caller near the southside reports an argument getting loud between two neighbours",
+			"spoken": "Code two, Disturbance. A caller near the Southside reports an argument getting loud between two neighbours.",
+			"text": "Code 2, Disturbance. A caller near the Southside reports an argument getting loud between two neighbours."
+		},
+		{
+			"key": "code two disturbance a caller near oak hills reports an argument getting loud between two neighbours",
+			"spoken": "Code two, Disturbance. A caller near Oak Hills reports an argument getting loud between two neighbours.",
+			"text": "Code 2, Disturbance. A caller near Oak Hills reports an argument getting loud between two neighbours."
+		},
+		{
+			"key": "code two disturbance a caller near eastgate reports an argument getting loud between two neighbours",
+			"spoken": "Code two, Disturbance. A caller near Eastgate reports an argument getting loud between two neighbours.",
+			"text": "Code 2, Disturbance. A caller near Eastgate reports an argument getting loud between two neighbours."
+		},
+		{
+			"key": "code two disturbance a caller near davidson blvd reports an argument getting loud between two neighbours",
+			"spoken": "Code two, Disturbance. A caller near Davidson Blvd reports an argument getting loud between two neighbours.",
+			"text": "Code 2, Disturbance. A caller near Davidson Blvd reports an argument getting loud between two neighbours."
+		},
+		{
+			"key": "code two disturbance bar staff near the southside ask for help with a rowdy customer",
+			"spoken": "Code two, Disturbance. Bar staff near the Southside ask for help with a rowdy customer.",
+			"text": "Code 2, Disturbance. Bar staff near the Southside ask for help with a rowdy customer."
+		},
+		{
+			"key": "code two disturbance bar staff near oak hills ask for help with a rowdy customer",
+			"spoken": "Code two, Disturbance. Bar staff near Oak Hills ask for help with a rowdy customer.",
+			"text": "Code 2, Disturbance. Bar staff near Oak Hills ask for help with a rowdy customer."
+		},
+		{
+			"key": "code two disturbance bar staff near eastgate ask for help with a rowdy customer",
+			"spoken": "Code two, Disturbance. Bar staff near Eastgate ask for help with a rowdy customer.",
+			"text": "Code 2, Disturbance. Bar staff near Eastgate ask for help with a rowdy customer."
+		},
+		{
+			"key": "code two disturbance bar staff near davidson blvd ask for help with a rowdy customer",
+			"spoken": "Code two, Disturbance. Bar staff near Davidson Blvd ask for help with a rowdy customer.",
+			"text": "Code 2, Disturbance. Bar staff near Davidson Blvd ask for help with a rowdy customer."
+		},
+		{
+			"key": "ten twenty two another unit will handle the disturbance",
+			"spoken": "ten twenty two, another unit will handle the disturbance.",
+			"text": "10-22, another unit will handle the disturbance."
+		},
+		{
+			"key": "code two welfare check family asks for someone to check on an elderly relative near the southside",
+			"spoken": "Code two, Welfare check. Family asks for someone to check on an elderly relative near the Southside.",
+			"text": "Code 2, Welfare check. Family asks for someone to check on an elderly relative near the Southside."
+		},
+		{
+			"key": "code two welfare check family asks for someone to check on an elderly relative near oak hills",
+			"spoken": "Code two, Welfare check. Family asks for someone to check on an elderly relative near Oak Hills.",
+			"text": "Code 2, Welfare check. Family asks for someone to check on an elderly relative near Oak Hills."
+		},
+		{
+			"key": "code two welfare check family asks for someone to check on an elderly relative near eastgate",
+			"spoken": "Code two, Welfare check. Family asks for someone to check on an elderly relative near Eastgate.",
+			"text": "Code 2, Welfare check. Family asks for someone to check on an elderly relative near Eastgate."
+		},
+		{
+			"key": "code two welfare check family asks for someone to check on an elderly relative near davidson blvd",
+			"spoken": "Code two, Welfare check. Family asks for someone to check on an elderly relative near Davidson Blvd.",
+			"text": "Code 2, Welfare check. Family asks for someone to check on an elderly relative near Davidson Blvd."
+		},
+		{
+			"key": "code two welfare check a caller near the southside has not seen a neighbour for days",
+			"spoken": "Code two, Welfare check. A caller near the Southside has not seen a neighbour for days.",
+			"text": "Code 2, Welfare check. A caller near the Southside has not seen a neighbour for days."
+		},
+		{
+			"key": "code two welfare check a caller near oak hills has not seen a neighbour for days",
+			"spoken": "Code two, Welfare check. A caller near Oak Hills has not seen a neighbour for days.",
+			"text": "Code 2, Welfare check. A caller near Oak Hills has not seen a neighbour for days."
+		},
+		{
+			"key": "code two welfare check a caller near eastgate has not seen a neighbour for days",
+			"spoken": "Code two, Welfare check. A caller near Eastgate has not seen a neighbour for days.",
+			"text": "Code 2, Welfare check. A caller near Eastgate has not seen a neighbour for days."
+		},
+		{
+			"key": "code two welfare check a caller near davidson blvd has not seen a neighbour for days",
+			"spoken": "Code two, Welfare check. A caller near Davidson Blvd has not seen a neighbour for days.",
+			"text": "Code 2, Welfare check. A caller near Davidson Blvd has not seen a neighbour for days."
+		},
+		{
+			"key": "ten twenty two another unit will handle the welfare check",
+			"spoken": "ten twenty two, another unit will handle the welfare check.",
+			"text": "10-22, another unit will handle the welfare check."
+		},
+		{
+			"key": "ten twenty two another unit will handle the stolen vehicle",
+			"spoken": "ten twenty two, another unit will handle the stolen vehicle.",
+			"text": "10-22, another unit will handle the stolen vehicle."
+		},
+		{
+			"key": "code three armed robbery a store clerk near the southside says the suspect showed a weapon and is leaving on foot",
+			"spoken": "Code three, Armed robbery. A store clerk near the Southside says the suspect showed a weapon and is leaving on foot.",
+			"text": "Code 3: Armed robbery. A store clerk near the Southside says the suspect showed a weapon and is leaving on foot."
+		},
+		{
+			"key": "code three armed robbery a store clerk near oak hills says the suspect showed a weapon and is leaving on foot",
+			"spoken": "Code three, Armed robbery. A store clerk near Oak Hills says the suspect showed a weapon and is leaving on foot.",
+			"text": "Code 3: Armed robbery. A store clerk near Oak Hills says the suspect showed a weapon and is leaving on foot."
+		},
+		{
+			"key": "code three armed robbery a store clerk near eastgate says the suspect showed a weapon and is leaving on foot",
+			"spoken": "Code three, Armed robbery. A store clerk near Eastgate says the suspect showed a weapon and is leaving on foot.",
+			"text": "Code 3: Armed robbery. A store clerk near Eastgate says the suspect showed a weapon and is leaving on foot."
+		},
+		{
+			"key": "code three armed robbery a store clerk near davidson blvd says the suspect showed a weapon and is leaving on foot",
+			"spoken": "Code three, Armed robbery. A store clerk near Davidson Blvd says the suspect showed a weapon and is leaving on foot.",
+			"text": "Code 3: Armed robbery. A store clerk near Davidson Blvd says the suspect showed a weapon and is leaving on foot."
+		},
+		{
+			"key": "code three armed robbery a cashier near the southside reports a robbery just now suspect heading away",
+			"spoken": "Code three, Armed robbery. A cashier near the Southside reports a robbery just now, suspect heading away.",
+			"text": "Code 3: Armed robbery. A cashier near the Southside reports a robbery just now, suspect heading away."
+		},
+		{
+			"key": "code three armed robbery a cashier near oak hills reports a robbery just now suspect heading away",
+			"spoken": "Code three, Armed robbery. A cashier near Oak Hills reports a robbery just now, suspect heading away.",
+			"text": "Code 3: Armed robbery. A cashier near Oak Hills reports a robbery just now, suspect heading away."
+		},
+		{
+			"key": "code three armed robbery a cashier near eastgate reports a robbery just now suspect heading away",
+			"spoken": "Code three, Armed robbery. A cashier near Eastgate reports a robbery just now, suspect heading away.",
+			"text": "Code 3: Armed robbery. A cashier near Eastgate reports a robbery just now, suspect heading away."
+		},
+		{
+			"key": "code three armed robbery a cashier near davidson blvd reports a robbery just now suspect heading away",
+			"spoken": "Code three, Armed robbery. A cashier near Davidson Blvd reports a robbery just now, suspect heading away.",
+			"text": "Code 3: Armed robbery. A cashier near Davidson Blvd reports a robbery just now, suspect heading away."
+		},
+		{
+			"key": "ten twenty two another unit will handle the armed robbery",
+			"spoken": "ten twenty two, another unit will handle the armed robbery.",
+			"text": "10-22, another unit will handle the armed robbery."
+		},
+		{
+			"key": "code three burglary in progress a caller hears someone breaking in next door near the southside",
+			"spoken": "Code three, Burglary in progress. A caller hears someone breaking in next door near the Southside.",
+			"text": "Code 3: Burglary in progress. A caller hears someone breaking in next door near the Southside."
+		},
+		{
+			"key": "code three burglary in progress a caller hears someone breaking in next door near oak hills",
+			"spoken": "Code three, Burglary in progress. A caller hears someone breaking in next door near Oak Hills.",
+			"text": "Code 3: Burglary in progress. A caller hears someone breaking in next door near Oak Hills."
+		},
+		{
+			"key": "code three burglary in progress a caller hears someone breaking in next door near eastgate",
+			"spoken": "Code three, Burglary in progress. A caller hears someone breaking in next door near Eastgate.",
+			"text": "Code 3: Burglary in progress. A caller hears someone breaking in next door near Eastgate."
+		},
+		{
+			"key": "code three burglary in progress a caller hears someone breaking in next door near davidson blvd",
+			"spoken": "Code three, Burglary in progress. A caller hears someone breaking in next door near Davidson Blvd.",
+			"text": "Code 3: Burglary in progress. A caller hears someone breaking in next door near Davidson Blvd."
+		},
+		{
+			"key": "code three burglary in progress an alarm and a broken window near the southside someone is still inside",
+			"spoken": "Code three, Burglary in progress. An alarm and a broken window near the Southside, someone is still inside.",
+			"text": "Code 3: Burglary in progress. An alarm and a broken window near the Southside, someone is still inside."
+		},
+		{
+			"key": "code three burglary in progress an alarm and a broken window near oak hills someone is still inside",
+			"spoken": "Code three, Burglary in progress. An alarm and a broken window near Oak Hills, someone is still inside.",
+			"text": "Code 3: Burglary in progress. An alarm and a broken window near Oak Hills, someone is still inside."
+		},
+		{
+			"key": "code three burglary in progress an alarm and a broken window near eastgate someone is still inside",
+			"spoken": "Code three, Burglary in progress. An alarm and a broken window near Eastgate, someone is still inside.",
+			"text": "Code 3: Burglary in progress. An alarm and a broken window near Eastgate, someone is still inside."
+		},
+		{
+			"key": "code three burglary in progress an alarm and a broken window near davidson blvd someone is still inside",
+			"spoken": "Code three, Burglary in progress. An alarm and a broken window near Davidson Blvd, someone is still inside.",
+			"text": "Code 3: Burglary in progress. An alarm and a broken window near Davidson Blvd, someone is still inside."
+		},
+		{
+			"key": "ten twenty two another unit will handle the burglary",
+			"spoken": "ten twenty two, another unit will handle the burglary.",
+			"text": "10-22, another unit will handle the burglary."
+		},
+		{
+			"key": "code three foot pursuit units are chasing a suspect on foot near the southside assist if you can",
+			"spoken": "Code three, Foot pursuit. Units are chasing a suspect on foot near the Southside. Assist if you can.",
+			"text": "Code 3: Foot pursuit. Units are chasing a suspect on foot near the Southside. Assist if you can."
+		},
+		{
+			"key": "code three foot pursuit units are chasing a suspect on foot near oak hills assist if you can",
+			"spoken": "Code three, Foot pursuit. Units are chasing a suspect on foot near Oak Hills. Assist if you can.",
+			"text": "Code 3: Foot pursuit. Units are chasing a suspect on foot near Oak Hills. Assist if you can."
+		},
+		{
+			"key": "code three foot pursuit units are chasing a suspect on foot near eastgate assist if you can",
+			"spoken": "Code three, Foot pursuit. Units are chasing a suspect on foot near Eastgate. Assist if you can.",
+			"text": "Code 3: Foot pursuit. Units are chasing a suspect on foot near Eastgate. Assist if you can."
+		},
+		{
+			"key": "code three foot pursuit units are chasing a suspect on foot near davidson blvd assist if you can",
+			"spoken": "Code three, Foot pursuit. Units are chasing a suspect on foot near Davidson Blvd. Assist if you can.",
+			"text": "Code 3: Foot pursuit. Units are chasing a suspect on foot near Davidson Blvd. Assist if you can."
+		},
+		{
+			"key": "ten twenty two another unit will handle the foot pursuit",
+			"spoken": "ten twenty two, another unit will handle the foot pursuit.",
+			"text": "10-22, another unit will handle the foot pursuit."
+		},
+		{
+			"key": "code three shots fired several callers near the southside report gunshots",
+			"spoken": "Code three, Shots fired. Several callers near the Southside report gunshots.",
+			"text": "Code 3: Shots fired. Several callers near the Southside report gunshots."
+		},
+		{
+			"key": "code three shots fired several callers near oak hills report gunshots",
+			"spoken": "Code three, Shots fired. Several callers near Oak Hills report gunshots.",
+			"text": "Code 3: Shots fired. Several callers near Oak Hills report gunshots."
+		},
+		{
+			"key": "code three shots fired several callers near eastgate report gunshots",
+			"spoken": "Code three, Shots fired. Several callers near Eastgate report gunshots.",
+			"text": "Code 3: Shots fired. Several callers near Eastgate report gunshots."
+		},
+		{
+			"key": "code three shots fired several callers near davidson blvd report gunshots",
+			"spoken": "Code three, Shots fired. Several callers near Davidson Blvd report gunshots.",
+			"text": "Code 3: Shots fired. Several callers near Davidson Blvd report gunshots."
+		},
+		{
+			"key": "ten twenty two another unit will handle the shots fired",
+			"spoken": "ten twenty two, another unit will handle the shots fired.",
+			"text": "10-22, another unit will handle the shots fired."
+		},
+		{
+			"key": "code two traffic stop dispatch asks you to check a vehicle near the southside that was reported driving erratically",
+			"spoken": "Code two, Traffic stop. Dispatch asks you to check a vehicle near the Southside that was reported driving erratically.",
+			"text": "Code 2, Traffic stop. Dispatch asks you to check a vehicle near the Southside that was reported driving erratically."
+		},
+		{
+			"key": "code two traffic stop dispatch asks you to check a vehicle near oak hills that was reported driving erratically",
+			"spoken": "Code two, Traffic stop. Dispatch asks you to check a vehicle near Oak Hills that was reported driving erratically.",
+			"text": "Code 2, Traffic stop. Dispatch asks you to check a vehicle near Oak Hills that was reported driving erratically."
+		},
+		{
+			"key": "code two traffic stop dispatch asks you to check a vehicle near eastgate that was reported driving erratically",
+			"spoken": "Code two, Traffic stop. Dispatch asks you to check a vehicle near Eastgate that was reported driving erratically.",
+			"text": "Code 2, Traffic stop. Dispatch asks you to check a vehicle near Eastgate that was reported driving erratically."
+		},
+		{
+			"key": "code two traffic stop dispatch asks you to check a vehicle near davidson blvd that was reported driving erratically",
+			"spoken": "Code two, Traffic stop. Dispatch asks you to check a vehicle near Davidson Blvd that was reported driving erratically.",
+			"text": "Code 2, Traffic stop. Dispatch asks you to check a vehicle near Davidson Blvd that was reported driving erratically."
+		},
+		{
+			"key": "ten twenty two another unit will handle the traffic stop",
+			"spoken": "ten twenty two, another unit will handle the traffic stop.",
+			"text": "10-22, another unit will handle the traffic stop."
+		},
+		{
+			"key": "please officer i have to get to the hospital",
+			"spoken": "Please, officer, I have to get to the hospital.",
+			"text": "Please, officer, I have to get to the hospital."
+		},
+		{
+			"key": "my dad's had a heart attack they called me from the hospital",
+			"spoken": "My dad's had a heart attack. They called me from the hospital.",
+			"text": "My dad's had a heart attack. They called me from the hospital."
+		},
+		{
+			"key": "mercy general on the east side he's going into surgery",
+			"spoken": "Mercy General, on the east side. He's going into surgery.",
+			"text": "Mercy General, on the east side. He's going into surgery."
+		},
+		{
+			"key": "no i don't drink and drive",
+			"spoken": "No, I don't drink and drive.",
+			"text": "No, I don't drink and drive."
+		},
+		{
+			"key": "it's mine please can we do this quickly",
+			"spoken": "It's mine. Please, can we do this quickly?",
+			"text": "It's mine. Please, can we do this quickly?"
+		},
+		{
+			"key": "no you can look if you want",
+			"spoken": "No. You can look if you want.",
+			"text": "No. You can look if you want."
+		},
+		{
+			"key": "no weapons i just need to get there",
+			"spoken": "No weapons. I just need to get there.",
+			"text": "No weapons. I just need to get there."
+		},
+		{
+			"key": "yes anything just please hurry",
+			"spoken": "Yes, anything. Just please hurry.",
+			"text": "Yes, anything. Just please hurry."
+		},
+		{
+			"key": "please no i don't have time for this",
+			"spoken": "Please, no. I don't have time for this.",
+			"text": "Please, no. I don't have time for this."
+		},
+		{
+			"key": "here it's all in my wallet",
+			"spoken": "Here, it's all in my wallet.",
+			"text": "Here, it's all in my wallet."
+		},
+		{
+			"key": "i left it in my other jacket",
+			"spoken": "I left it in my other jacket.",
+			"text": "I left it in my other jacket."
+		},
+		{
+			"key": "evening officer is something wrong",
+			"spoken": "Evening, officer. Is something wrong?",
+			"text": "Evening, officer. Is something wrong?"
+		},
+		{
+			"key": "i think i was a bit careless back there sorry",
+			"spoken": "I think I was a bit careless back there. Sorry.",
+			"text": "I think I was a bit careless back there. Sorry."
+		},
+		{
+			"key": "home i just finished a late shift",
+			"spoken": "Home. I just finished a late shift.",
+			"text": "Home. I just finished a late shift."
+		},
+		{
+			"key": "no i haven't had a drop",
+			"spoken": "No, I haven't had a drop.",
+			"text": "No, I haven't had a drop."
+		},
+		{
+			"key": "it's mine i've had it about three years",
+			"spoken": "It's mine. I've had it about three years.",
+			"text": "It's mine. I've had it about three years."
+		},
+		{
+			"key": "no nothing like that",
+			"spoken": "No, nothing like that.",
+			"text": "No, nothing like that."
+		},
+		{
+			"key": "no officer nothing at all",
+			"spoken": "No, officer. Nothing at all.",
+			"text": "No, officer. Nothing at all."
+		},
+		{
+			"key": "sure go ahead i've got nothing to hide",
+			"spoken": "Sure, go ahead. I've got nothing to hide.",
+			"text": "Sure, go ahead. I've got nothing to hide."
+		},
+		{
+			"key": "i'd rather you didn't if that's all right",
+			"spoken": "I'd rather you didn't, if that's all right.",
+			"text": "I'd rather you didn't, if that's all right."
+		},
+		{
+			"key": "here you go",
+			"spoken": "Here you go.",
+			"text": "Here you go."
+		},
+		{
+			"key": "i must have left my wallet at home",
+			"spoken": "I must have left my wallet at home.",
+			"text": "I must have left my wallet at home."
+		},
+		{
+			"key": "no officer was i doing something wrong",
+			"spoken": "No, officer. Was I doing something wrong?",
+			"text": "No, officer. Was I doing something wrong?"
+		},
+		{
+			"key": "hi officer what's the problem",
+			"spoken": "Hi. officer. What's the problem?",
+			"text": "Hi... officer. What's the problem?"
+		},
+		{
+			"key": "i don't know i wasn't doing anything i swear",
+			"spoken": "I don't know. I wasn't doing anything, I swear.",
+			"text": "I don't know. I wasn't doing anything, I swear."
+		},
+		{
+			"key": "just to a friend's place not far",
+			"spoken": "Just to a friend's place. Not far.",
+			"text": "Just to a friend's place. Not far."
+		},
+		{
+			"key": "no no not tonight",
+			"spoken": "No. No, not tonight.",
+			"text": "No. No, not tonight."
+		},
+		{
+			"key": "it's mine well my cousin's he lets me use it",
+			"spoken": "It's mine. Well, my cousin's. He lets me use it.",
+			"text": "It's mine. Well, my cousin's. He lets me use it."
+		},
+		{
+			"key": "no why would there be",
+			"spoken": "No. Why would there be?",
+			"text": "No. Why would there be?"
+		},
+		{
+			"key": "no weapons nothing",
+			"spoken": "No weapons. Nothing.",
+			"text": "No weapons. Nothing."
+		},
+		{
+			"key": "i guess so make it quick okay",
+			"spoken": "I guess so. Make it quick, okay?",
+			"text": "I guess so. Make it quick, okay?"
+		},
+		{
+			"key": "no i don't want anyone going through my things",
+			"spoken": "No. I don't want anyone going through my things.",
+			"text": "No. I don't want anyone going through my things."
+		},
+		{
+			"key": "uh yeah one second",
+			"spoken": "Uh, yeah. One second.",
+			"text": "Uh, yeah. One second."
+		},
+		{
+			"key": "it's uh at home i forgot it",
+			"spoken": "It's, uh, at home. I forgot it.",
+			"text": "It's, uh, at home. I forgot it."
+		},
+		{
+			"key": "what now i didn't do anything",
+			"spoken": "What now? I didn't do anything.",
+			"text": "What now? I didn't do anything."
+		},
+		{
+			"key": "no idea why don't you tell me",
+			"spoken": "No idea. Why don't you tell me?",
+			"text": "No idea. Why don't you tell me?"
+		},
+		{
+			"key": "home is that a crime now",
+			"spoken": "Home. Is that a crime now?",
+			"text": "Home. Is that a crime now?"
+		},
+		{
+			"key": "i'm not drunk are we done here",
+			"spoken": "I'm not drunk. Are we done here?",
+			"text": "I'm not drunk. Are we done here?"
+		},
+		{
+			"key": "it's my car check the registration",
+			"spoken": "It's my car. Check the registration.",
+			"text": "It's my car. Check the registration."
+		},
+		{
+			"key": "no you've got no reason to look",
+			"spoken": "No. You've got no reason to look.",
+			"text": "No. You've got no reason to look."
+		},
+		{
+			"key": "no and you can't just ask me that",
+			"spoken": "No. And you can't just ask me that.",
+			"text": "No. And you can't just ask me that."
+		},
+		{
+			"key": "fine look then and hurry up",
+			"spoken": "Fine. Look, then, and hurry up.",
+			"text": "Fine. Look, then, and hurry up."
+		},
+		{
+			"key": "no get a warrant",
+			"spoken": "No. Get a warrant.",
+			"text": "No. Get a warrant."
+		},
+		{
+			"key": "here happy now",
+			"spoken": "Here. Happy now?",
+			"text": "Here. Happy now?"
+		},
+		{
+			"key": "don't have it on me",
+			"spoken": "Don't have it on me.",
+			"text": "Don't have it on me."
+		},
+		{
+			"key": "officer hello nice night huh",
+			"spoken": "Officer. hello. Nice night, huh?",
+			"text": "Officer... hello. Nice night, huh?"
+		},
+		{
+			"key": "was i swerving just a little maybe",
+			"spoken": "Was I swerving? Just a little, maybe.",
+			"text": "Was I swerving? Just a little, maybe."
+		},
+		{
+			"key": "home it's not far i promise",
+			"spoken": "Home. It's not far, I promise.",
+			"text": "Home. It's not far, I promise."
+		},
+		{
+			"key": "two beers maybe three with dinner",
+			"spoken": "Two beers. Maybe three. With dinner.",
+			"text": "Two beers. Maybe three. With dinner."
+		},
+		{
+			"key": "mine obviously",
+			"spoken": "Mine. Obviously.",
+			"text": "Mine. Obviously."
+		},
+		{
+			"key": "nope well maybe a bottle in the back i forgot about it",
+			"spoken": "Nope. Well, maybe a bottle in the back. I forgot about it.",
+			"text": "Nope. Well, maybe a bottle in the back. I forgot about it."
+		},
+		{
+			"key": "weapons no no weapons",
+			"spoken": "Weapons? No, no weapons.",
+			"text": "Weapons? No, no weapons."
+		},
+		{
+			"key": "go ahead go ahead",
+			"spoken": "Go ahead, go ahead.",
+			"text": "Go ahead, go ahead."
+		},
+		{
+			"key": "nah i'd rather you didn't",
+			"spoken": "Nah, I'd rather you didn't.",
+			"text": "Nah, I'd rather you didn't."
+		},
+		{
+			"key": "hold on it's in here somewhere",
+			"spoken": "Hold on. it's in here somewhere.",
+			"text": "Hold on... it's in here somewhere."
+		},
+		{
+			"key": "i think i lost it",
+			"spoken": "I think I lost it.",
+			"text": "I think I lost it."
+		},
+		{
+			"key": "officer please my wife is in labour we're almost at the hospital",
+			"spoken": "Officer, please, my wife is in labour. We're almost at the hospital.",
+			"text": "Officer, please, my wife is in labour. We're almost at the hospital."
+		},
+		{
+			"key": "she's in labour and the contractions are two minutes apart",
+			"spoken": "She's in labour and the contractions are two minutes apart.",
+			"text": "She's in labour and the contractions are two minutes apart."
+		},
+		{
+			"key": "the hospital on the east side please i'm already late",
+			"spoken": "The hospital on the east side. Please, I'm already late.",
+			"text": "The hospital on the east side. Please, I'm already late."
+		},
+		{
+			"key": "no i haven't been drinking i swear",
+			"spoken": "No, I haven't been drinking. I swear.",
+			"text": "No, I haven't been drinking. I swear."
+		},
+		{
+			"key": "it's mine can we please do this quickly",
+			"spoken": "It's mine. Can we please do this quickly?",
+			"text": "It's mine. Can we please do this quickly?"
+		},
+		{
+			"key": "no nothing look if you have to",
+			"spoken": "No, nothing. Look if you have to.",
+			"text": "No, nothing. Look if you have to."
+		},
+		{
+			"key": "no i don't own anything like that",
+			"spoken": "No. I don't own anything like that.",
+			"text": "No. I don't own anything like that."
+		},
+		{
+			"key": "yes anything just hurry",
+			"spoken": "Yes, anything. Just hurry.",
+			"text": "Yes, anything. Just hurry."
+		},
+		{
+			"key": "please no i have no time for this",
+			"spoken": "Please, no. I have no time for this.",
+			"text": "Please, no. I have no time for this."
+		},
+		{
+			"key": "here everything is in the wallet",
+			"spoken": "Here. Everything is in the wallet.",
+			"text": "Here. Everything is in the wallet."
+		},
+		{
+			"key": "it's at home i rushed out the door",
+			"spoken": "It's at home. I rushed out the door.",
+			"text": "It's at home. I rushed out the door."
+		},
+		{
+			"key": "sorry officer my daughter's school called she fell and they're taking her to the er",
+			"spoken": "Sorry, officer, my daughter's school called. She fell and they're taking her to the ER.",
+			"text": "Sorry, officer, my daughter's school called. She fell and they're taking her to the ER."
+		},
+		{
+			"key": "my daughter fell at school they're taking her to the er",
+			"spoken": "My daughter fell at school. They're taking her to the ER.",
+			"text": "My daughter fell at school. They're taking her to the ER."
+		},
+		{
+			"key": "copy one adam twelve is ten eighty all units be advised",
+			"spoken": "Copy, one Adam twelve is ten eighty. All units, be advised.",
+			"text": "Copy, 1-Adam-12 is 10-80. All units, be advised."
+		},
+		{
+			"key": "be advised the registered owner has prior evading arrests use caution",
+			"spoken": "Be advised, the registered owner has prior evading arrests. Use caution.",
+			"text": "Be advised, the registered owner has prior evading arrests. Use caution."
+		},
+		{
+			"key": "i need a ten seventy eight",
+			"spoken": "I need a ten seventy eight.",
+			"text": "I need a 10-78."
+		},
+		{
+			"key": "ten four one lincoln thirty respond code three to assist one adam twelve",
+			"spoken": "ten four. one Lincoln thirty, respond Code three to assist one Adam twelve.",
+			"text": "10-4. 1-Lincoln-30, respond Code 3 to assist 1-Adam-12."
+		},
+		{
+			"key": "ten four one lincoln thirty disregard",
+			"spoken": "ten four, one Lincoln thirty, disregard.",
+			"text": "10-4, 1-Lincoln-30, disregard."
+		},
+		{
+			"key": "calling off the foot pursuit",
+			"spoken": "Calling off the foot pursuit.",
+			"text": "Calling off the foot pursuit."
+		},
+		{
+			"key": "ten four foot pursuit terminated",
+			"spoken": "ten four, foot pursuit terminated.",
+			"text": "10-4, foot pursuit terminated."
+		},
+		{
+			"key": "one adam twelve stand by",
+			"spoken": "one Adam twelve, stand by.",
+			"text": "1-Adam-12, stand by."
+		},
+		{
+			"key": "one adam twelve we have lost the suspect all units terminate the pursuit",
+			"spoken": "one Adam twelve, we have lost the suspect. All units, terminate the pursuit.",
+			"text": "1-Adam-12, we have lost the suspect. All units, terminate the pursuit."
+		},
+		{
+			"key": "one adam twelve supervisor clears the pit",
+			"spoken": "one Adam twelve, supervisor clears the pit.",
+			"text": "1-Adam-12, supervisor clears the PIT."
+		},
+		{
+			"key": "one adam twelve supervisor says negative on the pit speeds are too high keep following",
+			"spoken": "one Adam twelve, supervisor says negative on the pit, speeds are too high. Keep following.",
+			"text": "1-Adam-12, supervisor says negative on the PIT, speeds are too high. Keep following."
+		},
+		{
+			"key": "good pit vehicle spun out",
+			"spoken": "Good pit, vehicle spun out.",
+			"text": "Good PIT, vehicle spun out."
+		},
+		{
+			"key": "suspect bailed i'm in foot pursuit",
+			"spoken": "Suspect bailed, I'm in foot pursuit.",
+			"text": "Suspect bailed, I'm in foot pursuit."
+		},
+		{
+			"key": "ten four foot pursuit all units be advised",
+			"spoken": "ten four, foot pursuit. All units, be advised.",
+			"text": "10-4, foot pursuit. All units, be advised."
+		},
+		{
+			"key": "thanks for the assist one adam twelve",
+			"spoken": "Thanks for the assist, one Adam twelve.",
+			"text": "Thanks for the assist, 1-Adam-12."
+		},
+		{
+			"key": "code four suspect's down",
+			"spoken": "Code four; suspect's down.",
+			"text": "Code four; suspect's down."
+		},
+		{
+			"key": "my unit's disabled i'm out of the pursuit",
+			"spoken": "my unit's disabled, I'm out of the pursuit.",
+			"text": "my unit's disabled, I'm out of the pursuit."
+		},
+		{
+			"key": "i'm ten eighty",
+			"spoken": "I'm ten eighty.",
+			"text": "I'm 10-80."
+		},
+		{
+			"key": "i'll set up a roadblock ahead of them",
+			"spoken": "I'll set up a roadblock ahead of them.",
+			"text": "I'll set up a roadblock ahead of them."
+		},
+		{
+			"key": "he's turning right now northbound",
+			"spoken": "He's turning right, now northbound.",
+			"text": "He's turning right, now northbound."
+		},
+		{
+			"key": "continuing northbound moderate speeds",
+			"spoken": "Continuing northbound, moderate speeds.",
+			"text": "Continuing northbound, moderate speeds."
+		},
+		{
+			"key": "one adam twelve",
+			"spoken": "one Adam twelve",
+			"text": "1-Adam-12"
+		},
+		{
+			"key": "all units shots fired officer needs assistance one adam twelve eastgate respond code three",
+			"spoken": "all units, shots fired, officer needs assistance. one Adam twelve, Eastgate. Respond Code three.",
+			"text": "all units, shots fired, officer needs assistance. 1-Adam-12, Eastgate. Respond Code 3."
+		},
+		{
+			"key": "ten four one adam twelve respond code three to assist one adam twelve",
+			"spoken": "ten four. one Adam twelve, respond Code three to assist one Adam twelve.",
+			"text": "10-4. 1-Adam-12, respond Code 3 to assist 1-Adam-12."
+		},
+		{
+			"key": "ten four one adam twelve disregard",
+			"spoken": "ten four, one Adam twelve, disregard.",
+			"text": "10-4, 1-Adam-12, disregard."
+		},
+		{
+			"key": "all units shots fired officer needs assistance one adam twelve the southside respond code three",
+			"spoken": "all units, shots fired, officer needs assistance. one Adam twelve, the Southside. Respond Code three.",
+			"text": "all units, shots fired, officer needs assistance. 1-Adam-12, the Southside. Respond Code 3."
+		},
+		{
+			"key": "all units shots fired officer needs assistance one adam twelve oak hills respond code three",
+			"spoken": "all units, shots fired, officer needs assistance. one Adam twelve, Oak Hills. Respond Code three.",
+			"text": "all units, shots fired, officer needs assistance. 1-Adam-12, Oak Hills. Respond Code 3."
+		},
+		{
+			"key": "all units shots fired officer needs assistance one adam twelve davidson blvd respond code three",
+			"spoken": "all units, shots fired, officer needs assistance. one Adam twelve, Davidson Blvd. Respond Code three.",
+			"text": "all units, shots fired, officer needs assistance. 1-Adam-12, Davidson Blvd. Respond Code 3."
+		},
+		{
+			"key": "one adam fourteen stand by",
+			"spoken": "one Adam fourteen, stand by.",
+			"text": "1-Adam-14, stand by."
+		},
+		{
+			"key": "ten four one adam fourteen",
+			"spoken": "ten four, one Adam fourteen.",
+			"text": "10-4, 1-Adam-14."
+		},
+		{
+			"key": "one adam twenty two stand by",
+			"spoken": "one Adam twenty two, stand by.",
+			"text": "1-Adam-22, stand by."
+		},
+		{
+			"key": "ten four one adam twenty two",
+			"spoken": "ten four, one Adam twenty two.",
+			"text": "10-4, 1-Adam-22."
+		},
+		{
+			"key": "five adam twenty three stand by",
+			"spoken": "five Adam twenty three, stand by.",
+			"text": "5-Adam-23, stand by."
+		},
+		{
+			"key": "ten four five adam twenty three",
+			"spoken": "ten four, five Adam twenty three.",
+			"text": "10-4, 5-Adam-23."
+		},
+		{
+			"key": "five lincoln eighteen stand by",
+			"spoken": "five Lincoln eighteen, stand by.",
+			"text": "5-Lincoln-18, stand by."
+		},
+		{
+			"key": "ten four five lincoln eighteen",
+			"spoken": "ten four, five Lincoln eighteen.",
+			"text": "10-4, 5-Lincoln-18."
+		},
+		{
+			"key": "seven sam thirty four stand by",
+			"spoken": "seven Sam thirty four, stand by.",
+			"text": "7-Sam-34, stand by."
+		},
+		{
+			"key": "ten four seven sam thirty four",
+			"spoken": "ten four, seven Sam thirty four.",
+			"text": "10-4, 7-Sam-34."
+		},
+		{
+			"key": "seven sam twenty one stand by",
+			"spoken": "seven Sam twenty one, stand by.",
+			"text": "7-Sam-21, stand by."
+		},
+		{
+			"key": "ten four seven sam twenty one",
+			"spoken": "ten four, seven Sam twenty one.",
+			"text": "10-4, 7-Sam-21."
+		},
+		{
+			"key": "one lincoln thirty stand by",
+			"spoken": "one Lincoln thirty, stand by.",
+			"text": "1-Lincoln-30, stand by."
+		},
+		{
+			"key": "ten four one lincoln thirty",
+			"spoken": "ten four, one Lincoln thirty.",
+			"text": "10-4, 1-Lincoln-30."
+		},
+		{
+			"key": "five adam eleven stand by",
+			"spoken": "five Adam eleven, stand by.",
+			"text": "5-Adam-11, stand by."
+		},
+		{
+			"key": "ten four five adam eleven",
+			"spoken": "ten four, five Adam eleven.",
+			"text": "10-4, 5-Adam-11."
+		},
+		{
+			"key": "two adam seventeen stand by",
+			"spoken": "two Adam seventeen, stand by.",
+			"text": "2-Adam-17, stand by."
+		},
+		{
+			"key": "ten four two adam seventeen",
+			"spoken": "ten four, two Adam seventeen.",
+			"text": "10-4, 2-Adam-17."
+		},
+		{
+			"key": "three mary forty one stand by",
+			"spoken": "three Mary forty one, stand by.",
+			"text": "3-Mary-41, stand by."
+		},
+		{
+			"key": "ten four three mary forty one",
+			"spoken": "ten four, three Mary forty one.",
+			"text": "10-4, 3-Mary-41."
+		},
+		{
+			"key": "six adam fifteen stand by",
+			"spoken": "six Adam fifteen, stand by.",
+			"text": "6-Adam-15, stand by."
+		},
+		{
+			"key": "ten four six adam fifteen",
+			"spoken": "ten four, six Adam fifteen.",
+			"text": "10-4, 6-Adam-15."
+		},
+		{
+			"key": "nine henry twenty seven stand by",
+			"spoken": "nine Henry twenty seven, stand by.",
+			"text": "9-Henry-27, stand by."
+		},
+		{
+			"key": "ten four nine henry twenty seven",
+			"spoken": "ten four, nine Henry twenty seven.",
+			"text": "10-4, 9-Henry-27."
+		}
+	],
+	"words": [
+		"a",
+		"abbott",
+		"about",
+		"adam",
+		"advised",
+		"ahead",
+		"alarm",
+		"all",
+		"almost",
+		"already",
+		"alvarez",
+		"an",
+		"and",
+		"andre",
+		"another",
+		"any",
+		"anyone",
+		"anything",
+		"apart",
+		"arden",
+		"are",
+		"argument",
+		"armed",
+		"arrests",
+		"ask",
+		"asks",
+		"assist",
+		"assistance",
+		"at",
+		"attack",
+		"awake",
+		"away",
+		"back",
+		"bailed",
+		"bar",
+		"be",
+		"been",
+		"beers",
+		"bender",
+		"between",
+		"bianchi",
+		"bit",
+		"black",
+		"blocking",
+		"blue",
+		"blvd",
+		"booked",
+		"booking",
+		"bottle",
+		"boy",
+		"breaking",
+		"brennan",
+		"brightwater",
+		"broken",
+		"burglary",
+		"busco",
+		"by",
+		"called",
+		"caller",
+		"callers",
+		"calling",
+		"calloway",
+		"can",
+		"can't",
+		"car",
+		"careless",
+		"cars",
+		"cashier",
+		"castillo",
+		"caution",
+		"charles",
+		"chasing",
+		"check",
+		"city",
+		"claire",
+		"clearing",
+		"clears",
+		"clerk",
+		"code",
+		"collided",
+		"collision",
+		"comes",
+		"compact",
+		"complaint",
+		"continuing",
+		"contractions",
+		"copy",
+		"county",
+		"coupe",
+		"cousin's",
+		"crime",
+		"curtis",
+		"custody",
+		"customer",
+		"dad's",
+		"darnell",
+		"daughter",
+		"daughter's",
+		"david",
+		"davidson",
+		"days",
+		"delgado",
+		"didn't",
+		"dinner",
+		"disabled",
+		"dispatch",
+		"disregard",
+		"disturbance",
+		"do",
+		"doing",
+		"dollars",
+		"don't",
+		"done",
+		"door",
+		"doors",
+		"down",
+		"downtown",
+		"drink",
+		"drinking",
+		"drive",
+		"driver",
+		"driving",
+		"drop",
+		"drunk",
+		"dwayne",
+		"east",
+		"eastbound",
+		"eastgate",
+		"edward",
+		"eight",
+		"eighteen",
+		"eighty",
+		"elderly",
+		"elena",
+		"eleven",
+		"ellison",
+		"en",
+		"er",
+		"erratically",
+		"evading",
+		"evening",
+		"everything",
+		"expired",
+		"failing",
+		"family",
+		"far",
+		"fast",
+		"felix",
+		"fell",
+		"fender",
+		"ferreira",
+		"few",
+		"fifteen",
+		"fifty",
+		"fine",
+		"finished",
+		"fired",
+		"five",
+		"follow",
+		"following",
+		"foot",
+		"for",
+		"forgot",
+		"forty",
+		"forward",
+		"foster",
+		"found",
+		"four",
+		"fourteen",
+		"frank",
+		"friend's",
+		"from",
+		"general",
+		"george",
+		"get",
+		"getting",
+		"go",
+		"going",
+		"good",
+		"got",
+		"gray",
+		"green",
+		"greta",
+		"guess",
+		"gunshots",
+		"had",
+		"halvorsen",
+		"handle",
+		"hannah",
+		"happy",
+		"hartley",
+		"has",
+		"hatchback",
+		"have",
+		"haven't",
+		"he",
+		"he's",
+		"headed",
+		"heading",
+		"hears",
+		"heart",
+		"hello",
+		"help",
+		"henry",
+		"her",
+		"here",
+		"hi",
+		"hide",
+		"high",
+		"hills",
+		"hold",
+		"holding",
+		"hollis",
+		"home",
+		"hospital",
+		"huh",
+		"hundred",
+		"hurry",
+		"i",
+		"i'd",
+		"i'll",
+		"i'm",
+		"i've",
+		"ida",
+		"idea",
+		"if",
+		"illegal",
+		"imani",
+		"in",
+		"injuries",
+		"inside",
+		"insurance",
+		"into",
+		"is",
+		"it",
+		"it's",
+		"jacket",
+		"joan",
+		"john",
+		"joining",
+		"just",
+		"keep",
+		"keeping",
+		"kestrel",
+		"king",
+		"know",
+		"kowalski",
+		"labour",
+		"lane",
+		"late",
+		"lead",
+		"leave",
+		"leaving",
+		"left",
+		"lena",
+		"lets",
+		"licence",
+		"like",
+		"lincoln",
+		"lindgren",
+		"little",
+		"look",
+		"looking",
+		"lost",
+		"lot",
+		"loud",
+		"lucas",
+		"make",
+		"marcus",
+		"marlow",
+		"mary",
+		"maya",
+		"maybe",
+		"mbeki",
+		"me",
+		"mercer",
+		"mercy",
+		"mind",
+		"mine",
+		"minutes",
+		"moderate",
+		"more",
+		"music",
+		"must",
+		"my",
+		"nadia",
+		"nah",
+		"nakamura",
+		"name",
+		"navarro",
+		"near",
+		"need",
+		"needs",
+		"negative",
+		"neighbour",
+		"neighbours",
+		"next",
+		"nice",
+		"night",
+		"nine",
+		"nineteen",
+		"ninety",
+		"no",
+		"noise",
+		"nope",
+		"nora",
+		"northbound",
+		"not",
+		"nothing",
+		"now",
+		"oak",
+		"obviously",
+		"ocean",
+		"of",
+		"off",
+		"officer",
+		"okafor",
+		"okay",
+		"on",
+		"one",
+		"or",
+		"other",
+		"out",
+		"outstanding",
+		"over",
+		"owen",
+		"own",
+		"owner",
+		"owner's",
+		"park",
+		"parked",
+		"party",
+		"paul",
+		"paying",
+		"permission",
+		"person",
+		"pickup",
+		"pit",
+		"place",
+		"plate",
+		"please",
+		"point",
+		"police",
+		"prior",
+		"prisoner's",
+		"private",
+		"priya",
+		"problem",
+		"progress",
+		"promise",
+		"property",
+		"pruitt",
+		"pull",
+		"pursuit",
+		"queen",
+		"quick",
+		"quickly",
+		"quinn",
+		"ranger",
+		"rather",
+		"raymond",
+		"reason",
+		"received",
+		"red",
+		"redfield",
+		"registered",
+		"registration",
+		"relative",
+		"removed",
+		"report",
+		"reported",
+		"reports",
+		"requesting",
+		"resident",
+		"respond",
+		"responding",
+		"right",
+		"roadblock",
+		"robbery",
+		"robert",
+		"rosa",
+		"route",
+		"rowdy",
+		"run",
+		"rushed",
+		"s",
+		"sam",
+		"saw",
+		"says",
+		"school",
+		"search",
+		"second",
+		"sedan",
+		"seen",
+		"set",
+		"seven",
+		"seventeen",
+		"seventy",
+		"several",
+		"she",
+		"she's",
+		"shift",
+		"shoplifter",
+		"shoplifting",
+		"shots",
+		"shouting",
+		"show",
+		"showed",
+		"side",
+		"silver",
+		"six",
+		"sixteen",
+		"sixty",
+		"slow",
+		"so",
+		"sofia",
+		"someone",
+		"something",
+		"somewhere",
+		"sorensen",
+		"sorry",
+		"southbound",
+		"southside",
+		"speeds",
+		"spun",
+		"staff",
+		"stand",
+		"step",
+		"still",
+		"stolen",
+		"stop",
+		"stopped",
+		"store",
+		"stranger",
+		"street",
+		"supervisor",
+		"sure",
+		"surgery",
+		"suspect",
+		"suspect's",
+		"suspected",
+		"suspended",
+		"suspicious",
+		"swear",
+		"swerving",
+		"take",
+		"taking",
+		"tan",
+		"tell",
+		"ten",
+		"terminate",
+		"terminated",
+		"tests",
+		"thank",
+		"thanks",
+		"that",
+		"that's",
+		"the",
+		"them",
+		"then",
+		"there",
+		"they",
+		"they're",
+		"things",
+		"think",
+		"thirteen",
+		"thirty",
+		"this",
+		"three",
+		"through",
+		"tied",
+		"time",
+		"to",
+		"tolland",
+		"tom",
+		"tomas",
+		"tonight",
+		"too",
+		"traffic",
+		"tran",
+		"transporting",
+		"trespassing",
+		"trying",
+		"turning",
+		"twelve",
+		"twenty",
+		"two",
+		"u",
+		"uh",
+		"unable",
+		"understood",
+		"union",
+		"unit",
+		"unit's",
+		"units",
+		"up",
+		"use",
+		"v",
+		"valid",
+		"van",
+		"vehicle",
+		"very",
+		"victor",
+		"wagon",
+		"wallet",
+		"want",
+		"wants",
+		"warrant",
+		"warrants",
+		"was",
+		"wasn't",
+		"we",
+		"we're",
+		"weapon",
+		"weapons",
+		"welfare",
+		"well",
+		"wesley",
+		"westbound",
+		"what",
+		"what's",
+		"where",
+		"whitaker",
+		"white",
+		"whole",
+		"whose",
+		"why",
+		"wife",
+		"will",
+		"william",
+		"window",
+		"with",
+		"without",
+		"would",
+		"wrong",
+		"x-ray",
+		"yard",
+		"yeah",
+		"years",
+		"yes",
+		"yield",
+		"you",
+		"you've",
+		"young",
+		"your",
+		"zebra",
+		"zero"
+	]
+}

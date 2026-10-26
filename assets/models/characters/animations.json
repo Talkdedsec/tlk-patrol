@@ -1,0 +1,297 @@
+{
+ "cuffed_prone": {
+  "group": "full",
+  "length": 1.0,
+  "loop": true
+ },
+ "cuffing": {
+  "group": "full",
+  "length": 3.0,
+  "loop": false
+ },
+ "death_fall": {
+  "group": "full",
+  "length": 0.75,
+  "loop": false
+ },
+ "enter_vehicle": {
+  "group": "full",
+  "length": 1.2,
+  "loop": false
+ },
+ "exit_vehicle": {
+  "group": "full",
+  "length": 0.9,
+  "loop": false
+ },
+ "flashlight_hold": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "flashlight_scan": {
+  "group": "upper",
+  "length": 3.0,
+  "loop": true
+ },
+ "hands_behind": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "hands_belt": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "hands_head": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "hands_up": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "idle": {
+  "group": "loco",
+  "length": 2.4,
+  "loop": true
+ },
+ "kneel": {
+  "group": "full",
+  "length": 0.85,
+  "loop": false
+ },
+ "kneel_cuffed": {
+  "group": "full",
+  "length": 2.0,
+  "loop": true
+ },
+ "kneel_hold": {
+  "group": "full",
+  "length": 2.0,
+  "loop": true
+ },
+ "listen": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "patdown": {
+  "group": "full",
+  "length": 3.2,
+  "loop": true
+ },
+ "patdown_subject": {
+  "group": "full",
+  "length": 2.0,
+  "loop": true
+ },
+ "pistol_aim": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "pistol_draw": {
+  "group": "upper",
+  "length": 0.6,
+  "loop": false
+ },
+ "pistol_fire": {
+  "group": "upper",
+  "length": 0.25,
+  "loop": false
+ },
+ "pistol_fire_hip": {
+  "group": "upper",
+  "length": 0.25,
+  "loop": false
+ },
+ "pistol_holster": {
+  "group": "upper",
+  "length": 0.7,
+  "loop": false
+ },
+ "pistol_lower": {
+  "group": "upper",
+  "length": 0.22,
+  "loop": false
+ },
+ "pistol_raise": {
+  "group": "upper",
+  "length": 0.44,
+  "loop": false
+ },
+ "pistol_ready": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "pistol_reload": {
+  "group": "upper",
+  "length": 1.7,
+  "loop": false
+ },
+ "point": {
+  "group": "upper",
+  "length": 1.2,
+  "loop": false
+ },
+ "prone_hold": {
+  "group": "full",
+  "length": 1.0,
+  "loop": true
+ },
+ "rifle_aim": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "rifle_draw": {
+  "group": "upper",
+  "length": 0.85,
+  "loop": false
+ },
+ "rifle_fire": {
+  "group": "upper",
+  "length": 0.2,
+  "loop": false
+ },
+ "rifle_fire_hip": {
+  "group": "upper",
+  "length": 0.2,
+  "loop": false
+ },
+ "rifle_lower": {
+  "group": "upper",
+  "length": 0.167,
+  "loop": false
+ },
+ "rifle_raise": {
+  "group": "upper",
+  "length": 0.32,
+  "loop": false
+ },
+ "rifle_ready": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "rifle_reload": {
+  "group": "upper",
+  "length": 2.3,
+  "loop": false
+ },
+ "rifle_sling": {
+  "group": "upper",
+  "length": 0.85,
+  "loop": false
+ },
+ "run": {
+  "group": "loco",
+  "length": 0.62,
+  "loop": true
+ },
+ "run_strafe_l": {
+  "group": "loco",
+  "length": 0.62,
+  "loop": true
+ },
+ "run_strafe_r": {
+  "group": "loco",
+  "length": 0.62,
+  "loop": true
+ },
+ "shotgun_aim": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "shotgun_draw": {
+  "group": "upper",
+  "length": 0.85,
+  "loop": false
+ },
+ "shotgun_fire": {
+  "group": "upper",
+  "length": 0.3,
+  "loop": false
+ },
+ "shotgun_fire_hip": {
+  "group": "upper",
+  "length": 0.3,
+  "loop": false
+ },
+ "shotgun_lower": {
+  "group": "upper",
+  "length": 0.2,
+  "loop": false
+ },
+ "shotgun_pump": {
+  "group": "upper",
+  "length": 0.55,
+  "loop": false
+ },
+ "shotgun_raise": {
+  "group": "upper",
+  "length": 0.3,
+  "loop": false
+ },
+ "shotgun_ready": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "shotgun_reload": {
+  "group": "upper",
+  "length": 1.0,
+  "loop": false
+ },
+ "shotgun_sling": {
+  "group": "upper",
+  "length": 0.85,
+  "loop": false
+ },
+ "sit_drive": {
+  "group": "full",
+  "length": 2.0,
+  "loop": true
+ },
+ "sit_passenger": {
+  "group": "full",
+  "length": 2.0,
+  "loop": true
+ },
+ "strafe_l": {
+  "group": "loco",
+  "length": 1.0,
+  "loop": true
+ },
+ "strafe_r": {
+  "group": "loco",
+  "length": 1.0,
+  "loop": true
+ },
+ "talk_a": {
+  "group": "upper",
+  "length": 2.4,
+  "loop": true
+ },
+ "talk_b": {
+  "group": "upper",
+  "length": 2.0,
+  "loop": true
+ },
+ "taser_fall": {
+  "group": "full",
+  "length": 0.6,
+  "loop": false
+ },
+ "walk": {
+  "group": "loco",
+  "length": 1.0,
+  "loop": true
+ }
+}
