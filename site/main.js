@@ -4,8 +4,8 @@ const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
 // loader: short radio beat, then reveal
 const ready = () => document.body.classList.add("is-ready");
 if (reduced) ready();
-else addEventListener("load", () => setTimeout(ready, 700));
-setTimeout(ready, 2500);
+// the hero video can stream in behind the page; waiting for window load held the loader for seconds
+else setTimeout(ready, 650);
 
 if (reduced) document.querySelector(".hero__video")?.pause();
 
